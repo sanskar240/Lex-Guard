@@ -13,3 +13,17 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 - **Answer Generation**: Leverages the T5 model to generate human-readable answers or summaries from relevant document chunks.
 
 
+## Prerequisites
+
+- Python 3.7 or higher
+- `pip` for installing dependencies
+
+## Installation
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/sanskar240/Lex-Guard.git
+
+
+
