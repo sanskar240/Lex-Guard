@@ -13,6 +13,13 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 - **Answer Generation**: Leverages the T5 model to generate human-readable answers or summaries from relevant document chunks.
 
 
+## Workflow
+
+<img width="671" alt="Screenshot 2025-01-18 at 3 28 05 AM" src="https://github.com/user-attachments/assets/5f597bd8-9d6d-4367-87f0-fbe658c24f9e" />
+
+
+
+
 ## In Action
 
 <img width="1072" alt="Screenshot 2025-01-18 at 1 49 05 AM" src="https://github.com/user-attachments/assets/25c3b012-4fa0-4452-9e50-45d84971b40b" />
