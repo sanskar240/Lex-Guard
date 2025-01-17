@@ -13,6 +13,18 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 - **Answer Generation**: Leverages the T5 model to generate human-readable answers or summaries from relevant document chunks.
 
 
+## In Action
+
+<img width="1072" alt="Screenshot 2025-01-18 at 1 49 05 AM" src="https://github.com/user-attachments/assets/25c3b012-4fa0-4452-9e50-45d84971b40b" />
+
+<img width="1075" alt="Screenshot 2025-01-18 at 1 50 23 AM" src="https://github.com/user-attachments/assets/8a4dd353-61cb-4221-adca-f35df87ed432" />
+
+
+<img width="1086" alt="Screenshot 2025-01-18 at 1 50 59 AM" src="https://github.com/user-attachments/assets/865b890b-e3a0-4ee8-b181-a1278075dcae" />
+
+
+
+
 ## Prerequisites
 
 - Python 3.7 or higher
